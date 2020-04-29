@@ -6,7 +6,7 @@ With redirection to "sorry" or "thank-you" page according to payment status.
 
 ## Installation 
 
-    git clone
+    git clone https://github.com/taras-drobinskyi/dexdigital-callback.git
     cd dexdigital-callback
     composer install
     sudo cp .env.example .env
