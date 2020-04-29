@@ -1,0 +1,32 @@
+.fail-details, .details {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.icon img {
+    width: 50%;
+}
+.fail-details h1 {
+    color: red;
+}
+
+.content {
+    display: flex;
+    align-self: flex-start;
+}
+
+.details .label {
+    font-weight: 900;
+    font-size: 16px;
+}
+
+.details .item {
+    display: flex;
+    align-self: center;
+}
+
+.details.value {
+
+}
